@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`Очереди RabbitMQ`" - `Сканкун Михаил`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -42,8 +42,8 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
-
+[решение1](https://github.com/Mandarineccc/ochered-RabitMQ/blob/main/11.png)
+[решение2](https://github.com/Mandarineccc/ochered-RabitMQ/blob/main/22.png)
 
 ---
 
@@ -67,7 +67,8 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+[решение1](https://github.com/Mandarineccc/ochered-RabitMQ/blob/main/22.png)
+[решение2](https://github.com/Mandarineccc/ochered-RabitMQ/blob/main/221.png)
 
 
 ---
@@ -92,7 +93,10 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+[решение1](https://github.com/Mandarineccc/ochered-RabitMQ/blob/main/33.png)
+[решение2](https://github.com/Mandarineccc/ochered-RabitMQ/blob/main/331.png)
+[решение3](https://github.com/Mandarineccc/ochered-RabitMQ/blob/main/332.png)
+[решение3](https://github.com/Mandarineccc/ochered-RabitMQ/blob/main/333.png)
 
 ### Задание 4
 
